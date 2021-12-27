@@ -3,7 +3,7 @@ syntax enable
 colorscheme desert
 
 set backspace=indent,eol,start   "Make backspace behave normally"
-let mapleader = ','  	 "Default Leader is \"
+let mapleader = ','  	 	 "Default Leader is"
 set number  			 "Show line numbers"
 
 
